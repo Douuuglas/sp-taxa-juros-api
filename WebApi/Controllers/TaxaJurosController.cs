@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace SP.TAXA.JUROS.Controllers
+namespace WebApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]

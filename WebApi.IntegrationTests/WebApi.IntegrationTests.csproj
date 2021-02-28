@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SP.TAXA.JUROS\SP.TAXA.JUROS.csproj" />
+    <ProjectReference Include="..\WebApi\WebApi.csproj" />
   </ItemGroup>
 
 </Project>

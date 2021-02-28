@@ -5,7 +5,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace SP.TAXA.JUROS.IntegrationTests.Controller
+namespace WebApi.IntegrationTests.Controller
 {
     public class TaxaJurosControllerTests
     {
