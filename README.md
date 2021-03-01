@@ -5,7 +5,7 @@ API simples com apenas um endpoint:
 
 # Estrutura
  
- Projeto contruído em Asp.Net Core, sem nenhuma camada. Utilizado para testes de integração no projeto  <a href="https://github.com/Douuuglas/sp-calculadora-juros-api">🔗 sp-calculadora-juros-api</a>;
+ Projeto básico contruído em Asp.Net Core. Utilizado para testes de integração no projeto  <a href="https://github.com/Douuuglas/sp-calculadora-juros-api">🔗 sp-calculadora-juros-api</a>;
 
 # Requisitos para rodar a aplicação
   * .Net 5;
