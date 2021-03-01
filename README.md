@@ -13,9 +13,7 @@ API simples com apenas um endpoint:
 
 # Documentação em ambiente Windows
 
-Acessar o terminal do windows e:
-
-Baixar o projeto
+Acessar o terminal do windows e baixar o projeto
 ```
 git clone https://github.com/Douuuglas/sp-taxa-juros-api.git
 ```
