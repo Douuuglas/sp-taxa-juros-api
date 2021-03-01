@@ -13,38 +13,38 @@ API simples com apenas um endpoint:
 
 # Documentação em ambiente Windows
 
-Acessar o terminal do windows e baixar o projeto
+Acessar o terminal do windows e baixar o projeto:
 ```
 git clone https://github.com/Douuuglas/sp-taxa-juros-api.git
 ```
 
-Entrar na pasta do projeto
+Entrar na pasta do projeto:
 ```
 cd sp-taxa-juros-api
 ```
 
-Buildar o projeto
+Buildar o projeto:
 ```
 dotnet build
 ```
 
-Rodar os testes
+Rodar os testes:
 ```
 dotnet test
 ```
 
-Rodar o projeto
+Rodar o projeto:
 ```
 dotnet run --project .\WebApi\WebApi.csproj
 ```
 
-Buildar o projeto em container
+Buildar o projeto em container:
 ```
 docker build -t taxa-juros-api -f .\WebApi\Dockerfile .
 ```
 
-Rodar o projeto em container
-```
+Rodar o projeto em container:
+```bash
 docker run --name taxa-juros-api -dp 8080:80 taxa-juros-api
 ```
 
